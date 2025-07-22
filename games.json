@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Wacky Flip",
+        "slug": "wacky-flip",
+        "image": "/cache/data/image/game/wacky-flip/wacky-flip-m186x186.webp"
+    },
+    {
+        "name": "Flip Runner",
+        "slug": "flip-runner",
+        "image": "/cache/data/image/game/flip-runner-m186x186.webp"
+    },
+    {
+        "name": "Bottle Jump",
+        "slug": "bottle-jump",
+        "image": "/cache/data/image/game/bottle-jump/bottle-jump-m186x186.webp"
+    },
+    {
+        "name": "Flip Champion",
+        "slug": "flip-champion",
+        "image": "/cache/data/image/game/flip-champion-m186x186.webp"
+    },
+    {
+        "name": "Flipped Chain Dunk",
+        "slug": "flipped-chain-dunk",
+        "image": "/cache/data/image/game/flipped-chain-dunk/flipped-chain-dunk-m186x186.webp"
+    },
+    {
+        "name": "Back Flip Frenzy",
+        "slug": "back-flip-frenzy",
+        "image": "/cache/data/image/game/back-flip-frenzy/back-flip-frenzy-m186x186.webp"
+    },
+    {
+        "name": "Flip Jumping into Water from a Height",
+        "slug": "flip-jumping-into-water-from-a-height",
+        "image": "/cache/data/image/game/flip-jumping-into-water-from-a-height/flip-jumping-into-water-from-a-height-m186x186.webp"
+    },
+    {
+        "name": "Super Flip Hero 3D",
+        "slug": "super-flip-hero-3d",
+        "image": "/cache/data/image/game/super-flip-hero-3d/super-flip-hero-3d-m186x186.webp"
+    },
+    {
+        "name": "Flip the Gun",
+        "slug": "flip-the-gun",
+        "image": "/cache/data/image/game/flip-the-gun/flip-the-gun-m186x186.webp"
+    }
+]
